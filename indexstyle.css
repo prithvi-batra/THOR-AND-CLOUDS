@@ -1,0 +1,13 @@
+ h1 {
+    color : blue;    
+}
+marquee{
+    color:blue;
+    font-family:cooper;
+    font-size: x-large;
+    font-weight: 900;
+}
+.all{
+    display: flex;
+    text-align: right;
+}
